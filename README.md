@@ -1,2 +1,2 @@
 # Project-NikolaTeslaReadMe
-Create a ReadMe abaout Nikola Tesla
+Create a ReadMe about Nikola Tesla
